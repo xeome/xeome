@@ -19,7 +19,7 @@ optimizations.
 - [JCC](https://github.com/xeome/jcc): This is a self hosting C compiler I have been writing from scratch. 
 - [Zmem](https://github.com/xeome/zmem): A Linux memory monitoring program that displays detailed information about virtual memory.
 
-I have a keen interest in OSDev and systems programming. Currently, I'm learning C, Linux, XDP, and go. My passion lies in micro optimization and efficiency, and I'm always looking for ways to make my code and systems run faster and more efficiently.
+Linux system engineer obsessed with efficiency and micro optimization. Currently, I'm learning C, Linux, XDP, and go. I'm always looking for ways to make my code and systems run faster and more efficiently.
 
 Ping me on `xeome#4353` if you want to chat!
 
