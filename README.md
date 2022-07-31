@@ -3,7 +3,7 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=xeome"></img></a>
 
 * I’m currently learning <b>C, Linux</b>.</br>
-* I'm currently using jomOS (my own distribution, not public yet).</br>
+* I'm currently working on JomOS and CachyOS</br>
 * I like micro optimization & efficiency.</br>
 
 ### My tools and skills:
