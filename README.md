@@ -1,10 +1,12 @@
 <h2 align="center">I'm Emin. I'm interested in OSDev and systems programming.</b></h2>
 
-<a href="#"><img src="https://komarev.com/ghpvc/?username=xeome"></img></a>
-
-* I’m currently learning <b>C, Linux, Haskell</b>.</br>
+* I’m currently learning <b>C, Linux, XDP, Haskell</b>.</br>
 * I'm currently working on JomOS and CachyOS</br>
 * I like micro optimization & efficiency.</br>
+
+If you want to find more about me, visit my personal site here https://xeome.github.io//
+
+<a href="#"><img src="https://komarev.com/ghpvc/?username=xeome"></img></a>
 
 ### My tools and skills:
 
