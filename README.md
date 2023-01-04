@@ -4,7 +4,7 @@
 * I'm currently working on JomOS and CachyOS</br>
 * I like micro optimization & efficiency.</br>
 
-If you want to find more about me, visit my personal site here https://xeome.github.io//
+If you want to find more about me, visit my personal site here https://xeome.github.io/
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=xeome"></img></a>
 
