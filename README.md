@@ -1,7 +1,7 @@
 <h2 align="center">I'm Emin. I'm interested in OSDev and systems programming.</b></h2>
 
 * I’m currently learning <b>C, Linux, XDP, Haskell</b>.</br>
-* I'm currently working on JomOS and CachyOS</br>
+* I'm currently working on JomOS, CachyOS, JCC</br>
 * I like micro optimization & efficiency.</br>
 
 If you want to find more about me, visit my personal site here https://xeome.github.io/
