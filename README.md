@@ -1,6 +1,6 @@
 <h2 align="center">I'm Emin. I'm interested in OSDev and systems programming.</b></h2>
 
-* I’m currently learning <b>C, Linux, XDP, Haskell</b>.</br>
+* I’m currently learning <b>C, Linux, XDP, go</b>.</br>
 * I'm currently working on JomOS, CachyOS, JCC</br>
 * I like micro optimization & efficiency.</br>
 
