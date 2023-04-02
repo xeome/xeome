@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **257** commits, opened **17** issues, submitted **12** pull requests, received **80** stars across **19** personal projects, and contributed to **15** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **258** commits, opened **17** issues, submitted **12** pull requests, received **80** stars across **19** personal projects, and contributed to **15** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
@@ -20,5 +20,7 @@ optimizations.
 - [Zmem](https://github.com/xeome/zmem): A Linux memory monitoring program that displays detailed information about virtual memory.
 
 I have a keen interest in OSDev and systems programming. Currently, I'm learning C, Linux, XDP, and go. My passion lies in micro optimization and efficiency, and I'm always looking for ways to make my code and systems run faster and more efficiently.
+
+Ping me on `xeome#4353` if you want to chat!
 
 **~** [_xeome.github.io_](https://xeome.github.io/)
