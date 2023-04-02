@@ -21,4 +21,6 @@ optimizations.
 
 I have a keen interest in OSDev and systems programming. Currently, I'm learning C, Linux, XDP, and go. My passion lies in micro optimization and efficiency, and I'm always looking for ways to make my code and systems run faster and more efficiently.
 
+Ping me on `xeome#4353` if you want to chat!
+
 **~** [_xeome.github.io_](https://xeome.github.io/)
