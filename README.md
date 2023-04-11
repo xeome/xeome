@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/xeome/xeome.github.io/hugo/content/notes/assets/triangle120x25FPS.gif">
+<img align="left" src="https://raw.githubusercontent.com/xeome/xeome/master/i860_small.png">
 
 ### Hey!
 
@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **262** commits, opened **17** issues, submitted **12** pull requests, received **80** stars across **19** personal projects, and contributed to **14** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **263** commits, opened **17** issues, submitted **12** pull requests, received **80** stars across **19** personal projects, and contributed to **14** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
