@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/xeome/xeome.github.io/hugo/content/notes/assets/triangle120x25FPS.gif">
+<img align="left" src="https://raw.githubusercontent.com/xeome/xeome/master/i860_small.png">
 
 ### Hey!
 
