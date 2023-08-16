@@ -23,4 +23,4 @@ Linux system engineer obsessed with efficiency and micro optimization. Currently
 
 Discord: `jomo.sh`
 
-**~** [_xeome.github.io_](https://xeome.github.io/)
+**~** _[notes.xeome.dev](https://notes.xeome.dev/)_
