@@ -4,18 +4,17 @@
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-[![gpg](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/xeome.gpg) [![views](https://komarev.com/ghpvc/?username=xeome&style=flat&color=313131&label=views)](https://github.com/xeome)
+[![gpg](https://img.shields.io/badge/pgp-0xD567DA060655F563-313131?style=flat&labelColor=545454&color=313131)](https://github.com/xeome.gpg) [![views](https://komarev.com/ghpvc/?username=xeome&style=flat&color=313131&label=views)](https://github.com/xeome)
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **412** commits, opened **17** issues, submitted **15** pull requests, received **110** stars across **21** personal projects, and contributed to **15** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **413** commits, opened **17** issues, submitted **15** pull requests, received **111** stars across **21** personal projects, and contributed to **15** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
 - [CachyOS](https://github.com/CachyOS): An Arch Linux-based distribution with heavy optimizations and multi-architecture support for an
 optimal desktop experience. 
-- [JomOS](https://github.com/xeome/JomOS): A meta Linux distribution that allows users to easily mix and match well-tested configurations and
-optimizations. 
+- [riscv-kernel](https://github.com/xeome/riscv-kernel): A RISC-V kernel written in C and assembly. This project aims to implement a bare-metal kernel for the RISC-V ISA from scratch. 
 - [JCC](https://github.com/xeome/jcc): This is a self hosting C compiler I have been writing from scratch. 
 - [Zmem](https://github.com/xeome/zmem): A Linux memory monitoring program that displays detailed information about virtual memory.
 
