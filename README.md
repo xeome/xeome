@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **416** commits, opened **17** issues, submitted **15** pull requests, received **111** stars across **22** personal projects, and contributed to **15** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **419** commits, opened **17** issues, submitted **15** pull requests, received **111** stars across **23** personal projects, and contributed to **15** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
