@@ -4,11 +4,11 @@
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-[![gpg](https://img.shields.io/badge/pgp-0xD567DA060655F563-313131?style=flat&labelColor=545454&color=313131)](https://github.com/xeome.gpg) [![views](https://komarev.com/ghpvc/?username=xeome&style=flat&color=313131&label=views)](https://github.com/xeome)
+[![gpg](https://img.shields.io/badge/pgp-3E4E41CBA53A8BEB-313131?style=flat&labelColor=545454&color=313131)](https://github.com/xeome.gpg) [![views](https://komarev.com/ghpvc/?username=xeome&style=flat&color=313131&label=views)](https://github.com/xeome)
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **493** commits, opened **17** issues, submitted **17** pull requests, received **121** stars across **24** personal projects, and contributed to **14** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **495** commits, opened **17** issues, submitted **17** pull requests, received **121** stars across **24** personal projects, and contributed to **14** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
