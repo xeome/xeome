@@ -13,6 +13,7 @@ Ever since I joined GitHub **6** years ago, I pushed **{{ COMMITS }}** commits, 
 Here is a list of my **projects** that are worth mentioning:
 
 - [riscv-kernel](https://github.com/xeome/riscv-kernel): A RISC-V kernel written in C and assembly. This project aims to implement a bare-metal kernel for the RISC-V ISA from scratch.
+- [af_xdp-l2fwd](https://github.com/xeome/af_xdp-l2fwd): Kernel bypass using AF_XDP. This project implements high performance packet forwarding to userspace using AF_XDP.
 - [JCC](https://github.com/xeome/jcc): This is a self hosting C compiler I have been writing from scratch.
 - [Zmem](https://github.com/xeome/zmem): A Linux memory monitoring program that displays detailed information about virtual memory.
 
