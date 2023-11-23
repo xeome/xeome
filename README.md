@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **604** commits, opened **17** issues, submitted **17** pull requests, received **123** stars across **24** personal projects, and contributed to **14** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **605** commits, opened **17** issues, submitted **17** pull requests, received **123** stars across **24** personal projects, and contributed to **14** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
@@ -16,6 +16,7 @@ Here is a list of my **projects** that are worth mentioning:
 - [af_xdp-l2fwd](https://github.com/xeome/af_xdp-l2fwd): Kernel bypass using AF_XDP. This project implements high performance packet forwarding to userspace using AF_XDP.
 - [JCC](https://github.com/xeome/jcc): This is a self hosting C compiler I have been writing from scratch.
 - [Zmem](https://github.com/xeome/zmem): A Linux memory monitoring program that displays detailed information about virtual memory.
+- [xm32](https://github.com/xeome/xm32-vm): xm32 is a custom 32-bit fantasy CPU architecture and virtual machine written in rust.
 
 Projects I have contributed to:
 
