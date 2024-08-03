@@ -8,11 +8,12 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **772** commits, opened **20** issues, submitted **22** pull requests, received **171** stars across **32** personal projects, and contributed to **12** public repositories.
+Ever since I joined GitHub **7** years ago, I pushed **773** commits, opened **20** issues, submitted **22** pull requests, received **171** stars across **32** personal projects, and contributed to **12** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
 - [riscv-kernel](https://github.com/xeome/riscv-kernel): A RISC-V kernel written in C and assembly. This project aims to implement a bare-metal kernel for the RISC-V ISA from scratch.
+- [buse-nfs](https://github.com/xeome/buse-nfs): A project demonstrating the use of NBD to create a custom block device that synchronizes data with a remote buffer over the network.
 - [XSKNet](https://github.com/xeome/XSKNet): A high performance custom networking stack for Linux using XDP and XSK. Bypasses the kernel network stack and receives/transmits packets directly from/to the network card.
 - [JCC](https://github.com/xeome/jcc): This is a self hosting C compiler I have been writing from scratch.
 - [Zmem](https://github.com/xeome/zmem): A Linux memory monitoring program that displays detailed information about virtual memory.
